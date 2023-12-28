@@ -1,4 +1,4 @@
-# Snakes game in Python
+# Flappy Bird in Python
 
 The classic flappy bird game where a little bird is trying to survive by dodging two pipes🎮
 
